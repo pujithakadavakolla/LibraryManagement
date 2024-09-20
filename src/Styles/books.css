@@ -1,0 +1,31 @@
+.allbooks{
+    display: flex;
+    height: 515px;
+    width: 75%;
+    margin-left: 100px;
+    margin: 5px;
+}
+.books img{
+    margin: 10px;
+}
+.booksdata{
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    margin-top: 70px;
+}
+.booksdata p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#a{
+    color: dodgerblue;
+    margin: 10px;
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+#b{
+    margin: 10px;
+    font-size: 20px;
+    color: forestgreen;
+}

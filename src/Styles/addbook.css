@@ -1,0 +1,44 @@
+.addBook{
+    background-image: url(/public/images/book.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 86vh;
+
+}
+
+.addBookLogo{
+    height: 500px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 500PX;
+}
+.addBookLogo h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 150px;
+}
+
+.form{
+    height: 350px;
+    width: 650px;
+    border: 0px ;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    border: 1px white;
+}
+.for{
+    font-family: sans-serif;
+    margin-top: 30px;
+    
+    
+}
+.for input{
+    font-size: 25px;
+    width: 630px;
+}
+
+.for button{
+    margin-left: 250px;
+    font-size: 20px;
+    color: darkseagreen;
+}

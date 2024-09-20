@@ -1,0 +1,73 @@
+
+.adminLogin{
+    width: 100%;
+    height: 100vh;
+}
+.adminForm{
+    height: 300px;
+    width: 500px;
+    border: 1px solid;
+    margin-left: 500px;
+    background-color: rgba(241, 236, 236, 0.595);
+    border-radius: 18px;
+}
+.adminForm h1{
+    padding-left: 150px;
+}
+.adminImage{
+    background-image: url(/public/images/admin1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 86vh;
+    width: 100%;
+    padding-top: 200px;
+}
+
+.adminEmail{
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.adminEmail input{
+    font-size: 20px;
+}
+.adminpassword{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.adminpassword input{
+    font-size: 20px;
+}
+.loginBtn{
+    margin-left: 120px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.loginBtn button{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.circle1{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.navba{
+    background-color: #edc9af;
+    height: 16vh;
+    width: 100%;
+    border: 1px solid;
+    display: flex;
+}
+.navba h1{
+    margin-left: 30px;
+    margin-top: 40px;
+    color: orange;
+    font-family:sans-serif;
+}

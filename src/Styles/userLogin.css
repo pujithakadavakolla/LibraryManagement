@@ -1,0 +1,75 @@
+
+.userLogin{
+    width: 100%;
+    height: 100vh;
+}
+.navba1{
+    background-color: #add8e6;
+    height: 16vh;
+    width: 100%;
+    border: 1px solid;
+    display: flex;
+}
+.navba1 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+    color: orange;
+    font-family:sans-serif;
+}
+.circle2{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.us{
+    background-image: url('/public/images/userlogin.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 86vh;
+    padding-top: 150px;
+}
+.userForm{
+    height: 300px;
+    border: 1px solid green;
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgba(241, 236, 236, 0.595);
+    border-radius: 18px;
+
+}
+.userForm h1{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.userEmail{
+    margin-left: 65px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+.userEmail input{
+    font-size: 20px;
+}
+.userPassword{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+.userPassword input{
+    font-size: 20px;
+}
+.loginBtn{
+    margin-left: 120px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.loginBtn button{
+    font-size: 20px;
+    margin: 10px;
+}
